@@ -1,2 +1,3 @@
-# Google-Home-Page
-This is my first work build with HTML &amp; CSS also it's Responsive.
+📌Name: Google Home Page
+
+🔗Live Link: https://ialamin69.github.io/Google
